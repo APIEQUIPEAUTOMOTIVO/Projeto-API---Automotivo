@@ -35,7 +35,8 @@ Como dito na introdução, a finalidade dessa ferramenta é acompanhar o desenvo
 ## Sprint
 Abaixo está o cronograma das entregas das Sprint
 
-#### 1. 14/09/2022 
+#### 1. 14/09/2022
+[Apresentação da Sprint](https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/blob/2c770e3dcd19c047d671058f85843a5089f7aa47/Cadeia%20produtiva%20-%20SPRINT%201.pptx)
 #### 2. 05/10/2022
 #### 3. 08/11/2022
 #### 4. 23/11/2022
