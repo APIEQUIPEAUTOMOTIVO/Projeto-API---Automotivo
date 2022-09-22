@@ -1,3 +1,9 @@
+## Requisitos de Entrega
+
+- Apresentação da cadeia produtiva;
+- Protótipo de interação de dados que permita caracterizar a cadeia produtiva;
+- Protótipo de coleta de dados automatizada.
+
 ## Apresentação da Sprint 
 
 <img style="border-radius: 50%;" src="https://i.imgur.com/LvbYi16.png" width="1920px;" alt=""/>
