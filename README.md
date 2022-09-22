@@ -3,7 +3,7 @@
 Esse repositório tem como objetivo detalhar o andamento dos processos referentes à produção do projeto API 1.
 
 
-## Integrantes da Equipe:
+## 📌 Integrantes da Equipe:
 
 
   <table align="center">
@@ -21,7 +21,7 @@ Esse repositório tem como objetivo detalhar o andamento dos processos referente
   </tr>
 </table>
 
-## Objetivos
+## 📈 Objetivos
 
 O projeto API 1 possui a finalidade de analisar e caracterizar as atividades de exportação e importação da cadeia produtiva automobilística, na RM Vale. Ou seja, analisando desde as matérias-primas e insumos para a produção veicular até a comercialização do produto final.
 
@@ -29,13 +29,13 @@ Dessa forma, devemos apresentar a movimentação dos principais materiais e prod
 
 
 
-## Métodos
+## ✏️ Métodos
 
 Os métodos para a produção do AP1 são baseados no modelo Scrum, caracterizado por pequenos ciclos de atividades chamados de Sprint. Esse repositório acompanhará o desenvolvimento de cada Sprint, onde serão anexados arquivos, protótipos, documentos até a conclusão, que será no final desse segundo semestre de 2022.
 O Scrum é visto como um método que oferece espaço para incertezas e criatividade, assim favorecendo o aprendizado da equipe.
 
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 #### [1. Power Plataform][powerpla]
 A principal tecnologia a ser focada para o desenvolvimento do projeto são as ferramentas da Power Plataform. Composta por [Power Bi][pbi]; [Power App][papp]; [Power Automate][paut] e [Dataverse][dtv], esse conjunto de ferramentas permite a automatização da coleta, interação e apresentação dos dados requisitados.
@@ -61,7 +61,7 @@ Como dito na introdução, a finalidade dessa ferramenta é acompanhar o desenvo
 
 [git]: https://github.com/
 
-## Sprint
+## 📅 Sprint
 Abaixo está o cronograma das entregas das Sprint
 
 #### 1. [14/09/2022][sprint1] 
