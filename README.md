@@ -57,7 +57,7 @@ Abaixo está o cronograma das entregas das Sprint
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/larissa-arruda-a139901a0/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQH1AunREnA-Ig/profile-displayphoto-shrink_200_200/0/1663801902329?e=1669248000&v=beta&t=2md8Uk-1KkiaU3xFO1GdFYwQAJzx8MiVdrSIl_J-fow" width="100px;" alt=""/><br /><sub><b>Larissa Arruda</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>
     <td align="center"><a href="https://www.linkedin.com/in/ana-beatriz-carvalho-santos-046215203/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/D4D35AQFxz8LJrGMMrQ/profile-framedphoto-shrink_200_200/0/1663802167926?e=1664409600&v=beta&t=bFa1T_sLMj4ULhSJmZ_A60C1YzfDfzgaHXNxghQaMCc" width="100px;" alt=""/><br /><sub><b>Ana Beatriz</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>
-   <td align="center"><a href="https://www.linkedin.com"><img style="border-radius: 50%;" src="default" width="100px;" alt=""/><br /><sub><b>Nicolle Oliveira</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>    
+   <td align="center"><a href="https://www.linkedin.com/in/nicolle-stephany-viveiros-oliveira-b0b582251/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHgN258qlVoIA/profile-displayphoto-shrink_200_200/0/1663804502929?e=1669248000&v=beta&t=L6xv5x-tmJxc5B_uda4wIFEtiBH7cE2gJXx2aer3eZ8" width="100px;" alt=""/><br /><sub><b>Nicolle Oliveira</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>    
   </tr>
 </table>
 
