@@ -74,8 +74,8 @@ Abaixo está o cronograma das entregas das Sprint
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/nicoly-paula-896504183/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGf0xTW1n6GJA/profile-displayphoto-shrink_800_800/0/1593303192605?e=1669248000&v=beta&t=6qJh4pHIYCDJMtqPLqCA_sGn1VDwsy2fQzc6vqsPHxc" width="100px;" alt=""/><br /><sub><b>Nicoly de Paula</b></sub></a><br/><sub><b>Scrum Master</b></sub></td>
- <td align="center"><a href="https://www.linkedin.com/in/alan-dos-anjos-52882b84/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEnjdu6fv7hKA/profile-displayphoto-shrink_200_200/0/1516552178908?e=1669248000&v=beta&t=OrBojIWu3NveUAt8EGgSowbSFQWNoLWZOd0Pisswp9g" width="100px;" alt=""/><br /><sub><b>Alan dos Anjos</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>
+    <td align="center"><a href="https://www.linkedin.com/in/nicoly-paula-896504183/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGf0xTW1n6GJA/profile-displayphoto-shrink_800_800/0/1593303192605?e=1669248000&v=beta&t=6qJh4pHIYCDJMtqPLqCA_sGn1VDwsy2fQzc6vqsPHxc" width="100px;" alt=""/><br /><sub><b>Nicoly de Paula</b></sub></a><br/><sub><b>Até a 3ª Sprint</b></sub></td>
+ <td align="center"><a href="https://www.linkedin.com/in/alan-dos-anjos-52882b84/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEnjdu6fv7hKA/profile-displayphoto-shrink_200_200/0/1516552178908?e=1669248000&v=beta&t=OrBojIWu3NveUAt8EGgSowbSFQWNoLWZOd0Pisswp9g" width="100px;" alt=""/><br /><sub><b>Alan dos Anjos</b></sub></a><br/><sub><b>Até a 3ª Sprint</b></sub></td>
   </tr>
 </table>
 
