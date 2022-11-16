@@ -8,16 +8,14 @@ Esse repositório tem como objetivo detalhar o andamento dos processos referente
 
   <table align="center">
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/nicoly-paula-896504183/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGf0xTW1n6GJA/profile-displayphoto-shrink_800_800/0/1593303192605?e=1669248000&v=beta&t=6qJh4pHIYCDJMtqPLqCA_sGn1VDwsy2fQzc6vqsPHxc" width="100px;" alt=""/><br /><sub><b>Nicoly de Paula</b></sub></a><br/><sub><b>Scrum Master</b></sub></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ana-beatriz-carvalho-santos-046215203/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/D4D03AQF15Ybvwf2oaA/profile-displayphoto-shrink_200_200/0/1663802166637?e=2147483647&v=beta&t=hquxmGrD4gt6M4oBwfTSg9KWXxh8uNdS3dqB74B1gkw" width="100px;" alt=""/><br /><sub><b>Ana Beatriz</b></sub></a><br/><sub><b>Scrum Master</b></sub></td>
      <td align="center"><a href="https://www.linkedin.com/in/diego-marabini-8a3188187/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQG4PXJG3FT4WQ/profile-displayphoto-shrink_200_200/0/1581552132779?e=1669248000&v=beta&t=oglo8W0XWcwmtVyrwlmxSj2Tu1UVGksS6fDWctAVVQI" width="100px;" alt=""/><br/><sub><b>Diego Marabini</b></sub></a><br/><sub><b>Product Owner</b></sub></td>
-    <td align="center"><a href="https://www.linkedin.com/in/alan-dos-anjos-52882b84/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEnjdu6fv7hKA/profile-displayphoto-shrink_200_200/0/1516552178908?e=1669248000&v=beta&t=OrBojIWu3NveUAt8EGgSowbSFQWNoLWZOd0Pisswp9g" width="100px;" alt=""/><br /><sub><b>Alan dos Anjos</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>
-    <td align="center"><a href="https://www.linkedin.com/in/isabelle-gomes-614561240/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGjWLkEkKLDXg/profile-displayphoto-shrink_200_200/0/1658013142289?e=1669248000&v=beta&t=e7OhdVKBnukNbx1gTg_BN5MchY_U_iKVl-ghQrG205A" width="100px;" alt=""/><br /><sub><b>Isabelle Gomes</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>
+   <td align="center"><a href="https://www.linkedin.com/in/isabelle-gomes-614561240/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGjWLkEkKLDXg/profile-displayphoto-shrink_200_200/0/1658013142289?e=1669248000&v=beta&t=e7OhdVKBnukNbx1gTg_BN5MchY_U_iKVl-ghQrG205A" width="100px;" alt=""/><br /><sub><b>Isabelle Gomes</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>
   </tr>
   <table align="center">
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/larissa-arruda-a139901a0/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQH1AunREnA-Ig/profile-displayphoto-shrink_200_200/0/1663801902329?e=1669248000&v=beta&t=2md8Uk-1KkiaU3xFO1GdFYwQAJzx8MiVdrSIl_J-fow" width="100px;" alt=""/><br /><sub><b>Larissa Arruda</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>
-    <td align="center"><a href="https://www.linkedin.com/in/ana-beatriz-carvalho-santos-046215203/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/D4D03AQF15Ybvwf2oaA/profile-displayphoto-shrink_200_200/0/1663802166637?e=2147483647&v=beta&t=hquxmGrD4gt6M4oBwfTSg9KWXxh8uNdS3dqB74B1gkw" width="100px;" alt=""/><br /><sub><b>Ana Beatriz</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>
-   <td align="center"><a href="https://www.linkedin.com/in/nicolle-stephany-viveiros-oliveira-b0b582251/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHgN258qlVoIA/profile-displayphoto-shrink_200_200/0/1663804502929?e=1669248000&v=beta&t=L6xv5x-tmJxc5B_uda4wIFEtiBH7cE2gJXx2aer3eZ8" width="100px;" alt=""/><br /><sub><b>Nicolle Oliveira</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>    
+    <td align="center"><a href="https://www.linkedin.com/in/nicolle-stephany-viveiros-oliveira-b0b582251/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHgN258qlVoIA/profile-displayphoto-shrink_200_200/0/1663804502929?e=1669248000&v=beta&t=L6xv5x-tmJxc5B_uda4wIFEtiBH7cE2gJXx2aer3eZ8" width="100px;" alt=""/><br /><sub><b>Nicolle Oliveira</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>    
   </tr>
 </table>
 
@@ -71,5 +69,15 @@ Abaixo está o cronograma das entregas das Sprint
 
 [sprint1]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/tree/main/1%C2%AA%20Sprint
 [sprint2]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/tree/main/2%C2%AA%20Sprint
+
+## Outros Colaboradores
+
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/nicoly-paula-896504183/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGf0xTW1n6GJA/profile-displayphoto-shrink_800_800/0/1593303192605?e=1669248000&v=beta&t=6qJh4pHIYCDJMtqPLqCA_sGn1VDwsy2fQzc6vqsPHxc" width="100px;" alt=""/><br /><sub><b>Nicoly de Paula</b></sub></a><br/><sub><b>Scrum Master</b></sub></td>
+ <td align="center"><a href="https://www.linkedin.com/in/alan-dos-anjos-52882b84/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEnjdu6fv7hKA/profile-displayphoto-shrink_200_200/0/1516552178908?e=1669248000&v=beta&t=OrBojIWu3NveUAt8EGgSowbSFQWNoLWZOd0Pisswp9g" width="100px;" alt=""/><br /><sub><b>Alan dos Anjos</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>
+  </tr>
+</table>
+
 
  
