@@ -64,11 +64,12 @@ Abaixo está o cronograma das entregas das Sprint
 
 #### 1. [14/09/2022][sprint1] 
 #### 2. [19/10/2022][sprint2]
-#### 3. 16/11/2022
+#### 3. [16/11/2022][sprint3]
 #### 4. 30/11/2022
 
 [sprint1]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/tree/main/1%C2%AA%20Sprint
 [sprint2]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/tree/main/2%C2%AA%20Sprint
+[sprint3]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/tree/main/Sprint%203
 
 ## Outros Colaboradores
 
