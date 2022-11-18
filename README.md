@@ -1,6 +1,6 @@
 # Projeto API 1 - Cadeia Produtiva Automobilística
 
-Esse repositório tem como objetivo detalhar o andamento dos processos referentes à produção do projeto API 1.
+Esse repositório tem como objetivo detalhar o andamento dos processos referentes à produção do projeto API, focado na análise e carcterização da cadeia produtiva automobilística que integram a região metropolitana do vale do paraíba.
 
 
 ## 📌 Integrantes da Equipe:
