@@ -1,5 +1,11 @@
 # Projeto API 1 - Cadeia Produtiva Automobilística
 
+<tr>
+    <td align="center"><a href="https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/wiki/P%C3%A1gina-Inicial"><img style="border-radius: 50%;" src="https://cdn-icons-png.flaticon.com/512/69/69544.png" width="20px;" alt=""/><br /><sub><b></b></sub></a><br/><sub><b></b></sub></td>
+    <td align="center"><a href="https://app.powerbi.com/groups/me/reports/fd1975fa-df9d-4110-956e-b65c803b4db5/ReportSection20d28b089989843d7450"><img style="border-radius: 50%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="20px;" alt=""/><br/><sub><b></b></sub></a><br/><sub><b></b></sub></td> 
+    <td align="center"><a href="https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo"><img style="border-radius: 50%;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20px;" alt=""/><br /><sub><b></b></sub></a><br/><sub><b></b></sub></td>
+  </tr>
+   
 Esse repositório tem como objetivo detalhar o andamento dos processos referentes à produção do projeto API, focado na análise e carcterização da cadeia produtiva automobilística que integram a região metropolitana do vale do paraíba.
 
 
@@ -59,6 +65,11 @@ Como dito na introdução, a finalidade dessa ferramenta é acompanhar o desenvo
 
 [git]: https://github.com/
 
+#### [5. ComexStat][comex]
+Utilizamos o portal ComexStat como a principal fonte de dados para a produção desse projeto, realizando a extração dos arquivos em csv que são trabalhados dentro das outras tecnolgias para apresentarmos de maneira precisa e compreendível os resultados.
+
+[comex]: http://comexstat.mdic.gov.br/pt/home
+
 ## 📅 Sprint
 Abaixo está o cronograma das entregas das Sprint
 
@@ -70,6 +81,25 @@ Abaixo está o cronograma das entregas das Sprint
 [sprint1]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/tree/main/1%C2%AA%20Sprint
 [sprint2]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/tree/main/2%C2%AA%20Sprint
 [sprint3]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/tree/main/Sprint%203
+
+<blockquote> Clicando nas datas, você será redirecionado à pasta da Sprint </blockquote> 
+
+## Links Externos
+Abaixo estão alguns links externos referente ao projeto:
+
+#### [Power Bi][pbix]: 
+Acesse o dashboard atualizado do projeto.
+<blockquote>(Em caso de requisição de autorização de acesso, solicite com um integrante da equipe)</blockquote>
+
+[pbix]:https://app.powerbi.com/groups/me/reports/fd1975fa-df9d-4110-956e-b65c803b4db5/ReportSection20d28b089989843d7450 
+
+#### [Aplicativo]: 
+<blockquote>*App em desenvolvimento*</blockquote>
+
+#### [Repositório no GitHub][rep] 
+Acesse os documentos do projeto
+
+[rep]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo
 
 ## Outros Colaboradores
 
