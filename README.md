@@ -70,6 +70,11 @@ Utilizamos o portal ComexStat como a principal fonte de dados para a produção 
 
 [comex]: http://comexstat.mdic.gov.br/pt/home
 
+#### [6. Adobe XD][adxd]
+Utilizamos o software do Adobe XD, programa de desenvolvimento UI/UX Design, para criação do protótipo visual do aplicativo, que possibilita acesso público ao projeto e encaminhamento para desenvolvimento com código
+
+[adxd]: https://www.adobe.com/br/products/xd.html
+
 ## 📅 Sprint
 Abaixo está o cronograma das entregas das Sprint
 
