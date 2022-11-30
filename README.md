@@ -4,7 +4,7 @@ Esse repositório tem como objetivo detalhar o andamento dos processos referente
 
 
 
-<a href="https://app.powerbi.com/groups/me/reports/3a34067a-ca2c-4a67-a9a7-e5cf801fb0d7/ReportSection"><img style="border-radius: 50%;" src="https://i.imgur.com/Nn8zKYU.png" width="320px;" alt=""/></a><a href="https://xd.adobe.com/view/4ed7cacc-7d6b-4ea9-83f5-6d20b6179aa6-1b84/"><img style="border-radius: 50%;" src="https://i.imgur.com/w6pOS1E.png" width="320px;" alt=""/></a><a href="https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/wiki/P%C3%A1gina-Inicial"><img style="border-radius: 50%;" src="https://i.imgur.com/KvmzkX9.png" width="320px;" alt=""/></a>
+<a href="https://app.powerbi.com/groups/me/reports/3a34067a-ca2c-4a67-a9a7-e5cf801fb0d7/ReportSection"><img style="border-radius: 50%;" src="https://i.imgur.com/Nn8zKYU.png" width="300px;" alt=""/></a><a href="https://xd.adobe.com/view/4ed7cacc-7d6b-4ea9-83f5-6d20b6179aa6-1b84/"><img style="border-radius: 50%;" src="https://i.imgur.com/w6pOS1E.png" width="300px;" alt=""/></a><a href="https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/wiki/P%C3%A1gina-Inicial"><img style="border-radius: 50%;" src="https://i.imgur.com/KvmzkX9.png" width="300px;" alt=""/></a>
 
 
   
