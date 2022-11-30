@@ -98,8 +98,11 @@ Acesse o dashboard atualizado do projeto.
 
 [pbix]:https://app.powerbi.com/groups/me/reports/fd1975fa-df9d-4110-956e-b65c803b4db5/ReportSection20d28b089989843d7450 
 
-#### [Aplicativo]: 
-<blockquote>*App em desenvolvimento*</blockquote>
+#### [Aplicativo][apppi]:
+Acesse o app do projeto.
+<blockquote>*App em versão de protótipo visual*</blockquote>
+
+[apppi]: https://xd.adobe.com/view/4ed7cacc-7d6b-4ea9-83f5-6d20b6179aa6-1b84/
 
 #### [Repositório no GitHub][rep] 
 Acesse os documentos do projeto
