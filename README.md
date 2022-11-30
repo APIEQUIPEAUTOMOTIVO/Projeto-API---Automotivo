@@ -1,13 +1,13 @@
 # Projeto API 1 - Cadeia Produtiva Automobilística
 
-<tr>
-    <td align="center"><a href="https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/wiki/P%C3%A1gina-Inicial"><img style="border-radius: 50%;" src="https://cdn-icons-png.flaticon.com/512/69/69544.png" width="20px;" alt=""/><br /><sub><b></b></sub></a><br/><sub><b></b></sub></td>
-    <td align="center"><a href="https://app.powerbi.com/groups/me/reports/fd1975fa-df9d-4110-956e-b65c803b4db5/ReportSection20d28b089989843d7450"><img style="border-radius: 50%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="20px;" alt=""/><br/><sub><b></b></sub></a><br/><sub><b></b></sub></td> 
-    <td align="center"><a href="https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo"><img style="border-radius: 50%;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20px;" alt=""/><br /><sub><b></b></sub></a><br/><sub><b></b></sub></td>
-  </tr>
-   
 Esse repositório tem como objetivo detalhar o andamento dos processos referentes à produção do projeto API, focado na análise e carcterização da cadeia produtiva automobilística que integram a região metropolitana do vale do paraíba.
 
+
+
+<a href="https://app.powerbi.com/groups/me/reports/3a34067a-ca2c-4a67-a9a7-e5cf801fb0d7/ReportSection"><img style="border-radius: 50%;" src="https://i.imgur.com/Nn8zKYU.png" width="320px;" alt=""/></a><a href="https://xd.adobe.com/view/4ed7cacc-7d6b-4ea9-83f5-6d20b6179aa6-1b84/"><img style="border-radius: 50%;" src="https://i.imgur.com/w6pOS1E.png" width="320px;" alt=""/></a><a href="https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/wiki/P%C3%A1gina-Inicial"><img style="border-radius: 50%;" src="https://i.imgur.com/KvmzkX9.png" width="320px;" alt=""/></a>
+
+
+  
 
 ## 📌 Integrantes da Equipe:
 
@@ -81,11 +81,12 @@ Abaixo está o cronograma das entregas das Sprint
 #### 1. [14/09/2022][sprint1] 
 #### 2. [19/10/2022][sprint2]
 #### 3. [16/11/2022][sprint3]
-#### 4. 30/11/2022
+#### 4. [30/11/2022][sprint4]
 
 [sprint1]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/tree/main/1%C2%AA%20Sprint
 [sprint2]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/tree/main/2%C2%AA%20Sprint
 [sprint3]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/tree/main/Sprint%203
+[sprint4]: https://github.com/APIEQUIPEAUTOMOTIVO/Projeto-API---Automotivo/tree/main/4%C2%AA%20Sprint
 
 <blockquote> Clicando nas datas, você será redirecionado à pasta da Sprint </blockquote> 
 
