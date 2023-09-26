@@ -117,6 +117,7 @@ Acesse os documentos do projeto
     <td align="center"><a href="https://www.linkedin.com/in/nicoly-paula-896504183/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGf0xTW1n6GJA/profile-displayphoto-shrink_200_200/0/1593303192605?e=1675296000&v=beta&t=2VyViUEA6UjKbpoWZTvBOru9-kK7TWfM2Ih35HsP5Uc" width="100px;" alt=""/><br /><sub><b>Nicoly de Paula</b></sub></a><br/><sub><b>Até a 3ª Sprint</b></sub></td>
  <td align="center"><a href="https://www.linkedin.com/in/alan-dos-anjos-52882b84/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEnjdu6fv7hKA/profile-displayphoto-shrink_200_200/0/1516552178908?e=1675296000&v=beta&t=byOSxcWdH6GDtKdYiZx8pMNXgHfqOGgj8yPLEmTnFNw" width="100px;" alt=""/><br /><sub><b>Alan dos Anjos</b></sub></a><br/><sub><b>Até a 3ª Sprint</b></sub></td>
   </tr>
+  .
 </table>
 
 
